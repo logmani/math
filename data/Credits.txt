@@ -1,0 +1,31 @@
+Text that appears outside of the block tags
+will not display in the credits scene
+
+<block:-1,-1,10,10,offbot,center,Island>
+CREDITS
+
+\c[2]Thank you for playing
+The Math Challenge Game
+
+
+\c[2]Main Programmer
+Rayan
+
+\c[4]Support Programmer
+Mohammed (Papa)
+
+
+\c[3]Special Thanks to
+Eiman (Mama)
+Jamal
+Jessica
+PYP4 Friends
+
+\c[5]You can develop similar game using
+RPG Maker MV
+</block>
+
+
+<block:99,0,10,10,300,center,Bye>
+THE END
+</block>
