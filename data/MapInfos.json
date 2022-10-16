@@ -1,5 +1,12 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":459,"scrollY":323.5},
-{"id":2,"expanded":false,"name":"MAP002","order":2,"parentId":0,"scrollX":4406.4,"scrollY":3028.7999999999997}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1398,"scrollY":861},
+{"id":2,"expanded":false,"name":"Forest Town","order":2,"parentId":0,"scrollX":1382,"scrollY":1059},
+{"id":3,"expanded":false,"name":"Fishing Village","order":3,"parentId":0,"scrollX":1382,"scrollY":861},
+{"id":4,"expanded":false,"name":"Ice Cave","order":6,"parentId":0,"scrollX":1382,"scrollY":1059},
+{"id":5,"expanded":false,"name":"Castle 1F","order":5,"parentId":7,"scrollX":1136,"scrollY":640},
+{"id":6,"expanded":true,"name":"Snow Castle","order":7,"parentId":0,"scrollX":1382,"scrollY":1539},
+{"id":7,"expanded":false,"name":"Floating Temple","order":4,"parentId":0,"scrollX":816,"scrollY":800},
+{"id":8,"expanded":true,"name":"Casino","order":8,"parentId":0,"scrollX":1152,"scrollY":1252},
+{"id":9,"expanded":false,"name":"Final","order":9,"parentId":0,"scrollX":1904,"scrollY":624}
 ]
